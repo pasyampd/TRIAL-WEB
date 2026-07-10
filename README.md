@@ -129,24 +129,20 @@ Website telah dioptimalkan untuk berbagai ukuran layar.
 
 # 📈 Future Development
 
-- 🌙 Dark Mode
-- 📄 Consultation Form
-- 🌐 Multi Language
-- 🔍 Search Article
-- 📅 Online Appointment
-- 💬 Live Chat
+- 👨‍⚖️ Penambahan Profil Advokat
+- 📚 Penambahan Bidang Praktik Hukum
+- 📰 Pembaruan Artikel Hukum Secara Berkala
+- 🌐 Dukungan Bahasa Indonesia & Inggris
+- 📧 Formulir Konsultasi Online
+- 📱 Optimalisasi Performa dan Responsivitas
 
 ---
 
 # 🤝 Contribution
 
-Contribution is always welcome.
+This project was developed as a portfolio and learning project.
 
-1. Fork Repository
-2. Create New Branch
-3. Commit Changes
-4. Push Branch
-5. Create Pull Request
+Suggestions, feedback, and constructive ideas are always welcome to help improve the quality and functionality of the website.
 
 ---
 
